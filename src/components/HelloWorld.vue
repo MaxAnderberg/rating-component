@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <article>
+    <div>star icon here</div>
     <h1>How did we do?</h1>
     <p>
       Please let us know how we did with your support request.
@@ -25,7 +26,7 @@
     <button class="button">
       Submit
     </button>
-  </div>
+  </article>
 </template>
 
 <script>
