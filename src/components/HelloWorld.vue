@@ -65,5 +65,8 @@ p {
 .container {
   display: flex;
   flex-direction: column;
+  max-width: 412px;
+  justify-content: center;
+  align-items: center;
 }
 </style>
