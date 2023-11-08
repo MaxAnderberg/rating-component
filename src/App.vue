@@ -18,6 +18,8 @@ export default {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-   background-color: #131518;
+  display: flex;
+  justify-content: center;
+  background-color: #131518;
 }
 </style>
