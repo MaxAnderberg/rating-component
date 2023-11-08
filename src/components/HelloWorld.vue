@@ -7,19 +7,19 @@
       All feedback is appreciated to help us improve our offering!
      </p>
     <div>
-      <div>
+      <div class="circle">
         1
       </div>
-      <div>
+      <div class="circle">
         2
       </div>
-      <div>
+      <div class="circle">
         3
       </div>
-      <div>
+      <div class="circle">
         4
       </div>
-      <div>
+      <div class="circle">
         5
       </div>
     </div>
@@ -50,5 +50,12 @@ p {
 .button {
   color: #fff;
   background-color: #FC7614;
+}
+.circle {
+  color: #7C8798;
+  background-color: #262E38;
+  border-radius: 50%;
+  width: 51px;
+  height: 51px;
 }
 </style>
