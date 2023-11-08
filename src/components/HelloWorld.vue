@@ -22,7 +22,7 @@
         5
       </div>
     </div>
-    <button>
+    <button class="button">
       Submit
     </button>
   </div>
@@ -53,5 +53,9 @@ li {
 }
 a {
   color: #42b983;
+}
+.button {
+  color: #fff;
+  background-color: #FC7614;
 }
 </style>
