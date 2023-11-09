@@ -20,6 +20,8 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   display: flex;
   justify-content: center;
-  background-color: #131518;
+  background-color: black;
+  height: 100vh;
+  margin: 0;
 }
 </style>
