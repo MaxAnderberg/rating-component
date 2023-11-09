@@ -37,7 +37,7 @@ export default {
   },
 };
 
-console.log('hello world');
+
 </script>
 
 <style scoped>
@@ -66,7 +66,7 @@ p {
   display: flex;
   flex-direction: column;
   max-width: 412px;
-  justify-content: center;
   align-items: center;
+  background-color: black;
 }
 </style>
