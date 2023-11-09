@@ -23,5 +23,6 @@ export default {
   background-color: black;
   height: 100vh;
   margin: 0;
+  align-items: center;
 }
 </style>
