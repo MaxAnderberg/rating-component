@@ -62,7 +62,12 @@ p {
   font-size: 15px;
   letter-spacing: 2px;
   font-weight: 700;
-} 
+  cursor: pointer;
+  } 
+button:hover {
+   background-color: #FFF; 
+   color: #FC7614
+}
 .circle {
   color: #7C8798;
   background-color: #262E38;
@@ -72,6 +77,14 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+.circle:hover {
+  background-color: #FC7614;
+  color: #FFF;
 }
 .raiting-container{
   display: flex;
