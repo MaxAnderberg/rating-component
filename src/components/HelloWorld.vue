@@ -42,6 +42,7 @@ export default {
 <style scoped>
 h1 {
   color: white;
+  text-align: left;
 }
 p {
   color: #969FAD;
@@ -63,13 +64,15 @@ p {
 .raiting-container{
   display: flex;
   justify-content: center;
+  width: 100%;
+  gap: 21px;
 }
 .container {
   display: flex;
   flex-direction: column;
   max-width: 412px;
   max-height: 416px;
-  align-items: center;
+  align-items: flex-start;
   background: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%);
   padding: 32px;
 }
