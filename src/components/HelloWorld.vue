@@ -75,6 +75,8 @@ p {
   justify-content: center;
   width: 100%;
   gap: 21px;
+  margin-bottom: 32px;
+  margin-top: 24px;
 }
 .container {
   display: flex;
@@ -84,6 +86,7 @@ p {
   align-items: flex-start;
   background: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%);
   padding: 32px;
+  border-radius: 30px;
 }
 .icon {
   width: 48px;
