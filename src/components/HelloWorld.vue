@@ -37,7 +37,6 @@ export default {
   },
 };
 
-
 </script>
 
 <style scoped>
@@ -57,6 +56,9 @@ p {
   border-radius: 50%;
   width: 51px;
   height: 51px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .raiting-container{
   display: flex;
@@ -66,7 +68,8 @@ p {
   display: flex;
   flex-direction: column;
   max-width: 412px;
+  max-height: 416px;
   align-items: center;
-  background-color: black;
+  background: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%);
 }
 </style>
