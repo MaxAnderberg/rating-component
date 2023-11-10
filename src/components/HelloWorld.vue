@@ -71,5 +71,6 @@ p {
   max-height: 416px;
   align-items: center;
   background: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%);
+  padding: 32px;
 }
 </style>
