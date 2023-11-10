@@ -1,6 +1,6 @@
 <template>
   <article class="container">
-    <div>star icon here</div>
+    <div class="icon">X</div>
     <h1>How did we do?</h1>
     <p>
       Please let us know how we did with your support request.
@@ -54,7 +54,7 @@ p {
   padding: 11px;
   border-radius: 22.5px;
   border: none;
-}
+} 
 .circle {
   color: #7C8798;
   background-color: #262E38;
@@ -79,5 +79,14 @@ p {
   align-items: flex-start;
   background: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%);
   padding: 32px;
+}
+.icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background-color: #262E38;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 </style>
