@@ -50,6 +50,10 @@ p {
 .button {
   color: #fff;
   background-color: #FC7614;
+  width: 100%;
+  padding: 11px;
+  border-radius: 22.5px;
+  border: none;
 }
 .circle {
   color: #7C8798;
