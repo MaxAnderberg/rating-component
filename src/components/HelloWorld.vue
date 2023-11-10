@@ -45,9 +45,12 @@ export default {
 h1 {
   color: white;
   text-align: left;
+  margin-bottom: 7px;
+  margin-top: 30px;
 }
 p {
   color: #969FAD;
+  margin: 0;
 }
 .button {
   color: #fff;
