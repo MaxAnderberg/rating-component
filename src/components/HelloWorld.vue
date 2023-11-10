@@ -54,6 +54,9 @@ p {
   padding: 11px;
   border-radius: 22.5px;
   border: none;
+  font-size: 15px;
+  letter-spacing: 2px;
+  font-weight: 700;
 } 
 .circle {
   color: #7C8798;
