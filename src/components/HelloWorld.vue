@@ -86,6 +86,9 @@ button:hover {
   background-color: #FC7614;
   color: #FFF;
 }
+.selected {
+  background-color: #7C8798;
+}
 .raiting-container{
   display: flex;
   justify-content: center;
