@@ -1,5 +1,7 @@
 # rating
 
+## Overview
+
 ## Project setup
 ```
 npm install
