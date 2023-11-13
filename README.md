@@ -2,6 +2,8 @@
 
 ## Overview
 
+## Author
+
 ## Project setup
 ```
 npm install
